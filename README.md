@@ -1,4 +1,4 @@
-# eru-stats
+# stats
 
 ## 功能
 
